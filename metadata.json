@@ -1,0 +1,6 @@
+{
+  "name": "Nani Umarvan School Student ID Card Maker",
+  "description": "Custom Student ID Card generator and manager for Nani Umarvan Primary School (UDISE: 24170307402) with G.R. Number, DOB, batch printing, and Gujarati language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
